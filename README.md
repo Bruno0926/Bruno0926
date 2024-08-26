@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Bruno Braga 👋
 
 - Curso Ciência da Computação pela PUC-MG.
-- Tenho enorme interesse pela área de Desenvolvimento de Software, Análise de dados, Machine Learning e IA.
+- Tenho enorme interesse pela área de  Análise de dados, IA, Machine Learning e Desenvolvimento de Software.
 _____________________
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno0926&show_icons=true&theme=radical)
